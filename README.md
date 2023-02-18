@@ -3,13 +3,14 @@
 
 #Tools Used
 
- HTML
- CSS
- JavaScript
- Fetch API
+1. HTML
+2. CSS
+3. JavaScript
+4. Fetch API
 
 #Features
 
- Responsive design optimized for different screen sizes
- Dynamically retrieves menu items using Fetch API and displays them on the page
+ 1. Responsive design optimized for different screen sizes.
+ 2. Dynamically retrieves menu items using Fetch API and displays them on the page
+ 
 
